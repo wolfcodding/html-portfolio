@@ -2,4 +2,4 @@
 ...each project branches from main repository to catalogue them in neat fashion...
 
 * SWIPE - app advertising website
-* <a href="[link](https://github.com/wolfcodding/html-portfolio/tree/SWIPE-application-promo)">SWIPE - app advertising website</a>
+* <a href="https://github.com/wolfcodding/html-portfolio/tree/SWIPE-application-promo">SWIPE - app advertising website</a>
