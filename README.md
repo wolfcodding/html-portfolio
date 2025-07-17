@@ -1,4 +1,4 @@
-# Here are some of my website projects I did when working with HTML and CSS.
-...each project branches from main repository to catalog them in a neat fashion...
+# Artist Portfolio.
 
-* <a href="https://github.com/wolfcodding/html-portfolio/tree/SWIPE-application-promo">SWIPE - app advertising website</a>
+
+![Artist-Portfolko-Sample](https://github.com/user-attachments/assets/0737254c-c4e2-434f-8eb4-2d86f0de92dc)
