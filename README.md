@@ -1,6 +1,3 @@
-# Here are some of my website projects I did when working with HTML and CSS.
-...each project branches from main repository to catalog them in a neat fashion...
+# Blog Post Landing Page
 
-* <a href="https://github.com/wolfcodding/html-portfolio/tree/SWIPE-application-promo">SWIPE - app advertising website</a>
-* <a href="https://github.com/wolfcodding/html-portfolio/tree/simple-artist-portfolio">simple-artist-portfolio - a photographer portfolio</a>
-* <a href="https://github.com/wolfcodding/html-portfolio/tree/blog-post-landingpage">blog-post - landing page for a blog</a>
+![blog-post-Sample](https://github.com/user-attachments/assets/b91ca35d-6df3-4109-bd98-55a49228013d)
