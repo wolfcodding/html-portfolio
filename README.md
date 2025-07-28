@@ -1,6 +1,4 @@
-# Here are some of my website projects I did when working with HTML and CSS.
-...each project branches from main repository to catalog them in a neat fashion...
+# Nice flexible CV website
 
-* <a href="https://github.com/wolfcodding/html-portfolio/tree/SWIPE-application-promo">SWIPE - app advertising website</a>
-* <a href="https://github.com/wolfcodding/html-portfolio/tree/simple-artist-portfolio">simple-artist-portfolio - a photographer portfolio</a>
-* <a href="https://github.com/wolfcodding/html-portfolio/tree/blog-post-landingpage">blog-post - landing page for a blog</a>
+
+![SampleCV](https://github.com/user-attachments/assets/a4020df6-441d-41c6-ad60-1f1757c60263)
