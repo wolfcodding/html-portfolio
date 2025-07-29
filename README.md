@@ -4,3 +4,4 @@
 * <a href="https://github.com/wolfcodding/html-portfolio/tree/SWIPE-application-promo">SWIPE - app advertising website</a>
 * <a href="https://github.com/wolfcodding/html-portfolio/tree/simple-artist-portfolio">simple-artist-portfolio - a photographer portfolio</a>
 * <a href="https://github.com/wolfcodding/html-portfolio/tree/blog-post-landingpage">blog-post - landing page for a blog</a>
+* <a href="https://github.com/wolfcodding/html-portfolio/tree/webCV-project">CV-web - sampel of CV page</a>
